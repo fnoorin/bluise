@@ -34,10 +34,11 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-    [![Netlify Status](https://api.netlify.com/api/v1/badges/86960355-85b3-40bf-b326-86a7bc278d1a/deploy-status)](https://app.netlify.com/sites/testunit1/deploys)        <img
+      <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+         <!-- src="https://source.unsplash.com/random/720x400" -->
+         src="https://api.netlify.com/api/v1/badges/86960355-85b3-40bf-b326-86a7bc278d1a/deploy-status"
         />
       </div>
     </div>
