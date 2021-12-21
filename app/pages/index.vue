@@ -37,8 +37,7 @@
       <img
           alt="Hero"
           class="rounded shadow-xl"
-         <!-- src="https://source.unsplash.com/random/720x400" -->
-         src="https://api.netlify.com/api/v1/badges/86960355-85b3-40bf-b326-86a7bc278d1a/deploy-status"
+          src="https://api.netlify.com/api/v1/badges/86960355-85b3-40bf-b326-86a7bc278d1a/deploy-status"
         />
       </div>
     </div>
